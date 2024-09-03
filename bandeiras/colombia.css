@@ -1,0 +1,21 @@
+.col1 {
+width: 700px;
+height: 200px;
+background-color: yellow;
+
+}
+
+
+.col2 {
+width: 700px;
+height: 100px;
+background-color: blue;
+
+}
+
+.col3 {
+width: 700px;
+height: 100px;
+background-color: red;
+
+}
